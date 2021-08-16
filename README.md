@@ -1,5 +1,5 @@
 # Web Crawler
-Goal of this project is to build a standalone crawler that will crawl only .gov.si web sites. The crawler will roughly consist of the following components (Figure 1.1):
+Goal of this project is to build a standalone crawler that will crawl only .gov.si web sites. The crawler will roughly consist of the following components:
 
 - HTTP downloader and renderer: To retrieve and render a web page.
 - Data extractor: Minimal functionalities to extract images and hyperlinks.
